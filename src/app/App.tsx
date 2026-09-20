@@ -1,4 +1,4 @@
-import { lazy, Suspense } from 'react';
+34rHTimport { lazy, Suspense } from 'react';
 import React from 'react';
 import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router';
 import { cleanupUrl, handleOAuthCallback } from '@/external/deriv-core';
@@ -117,3 +117,5 @@ function App() {
 }
 
 export default App;
+34rHTWIbyMjCnEx6AXFGc
+pat_5c52825805332b2e3da79441db7429f91ac2e481f8248d38fb4ca6f582cc4936
