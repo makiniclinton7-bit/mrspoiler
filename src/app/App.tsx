@@ -116,6 +116,4 @@ function App() {
     return <RouterProvider router={router} />;
 }
 
-export default App;
-34rHTWIbyMjCnEx6AXFGc
-pat_5c52825805332b2e3da79441db7429f91ac2e481f8248d38fb4ca6f582cc4936
+export default App
